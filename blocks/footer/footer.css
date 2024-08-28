@@ -1,6 +1,7 @@
 footer {
   padding: 2rem;
-  background-color: var(--light-color);
+  /* background-color: var(--light-color); */
+  background-color: RED; /* my change*/
   font-size: var(--body-font-size-s);
 }
 
