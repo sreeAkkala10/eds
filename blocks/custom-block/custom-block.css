@@ -6,5 +6,5 @@
 }
 .custom-block.block>div{
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
 }
